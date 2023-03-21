@@ -164,7 +164,7 @@
 	}
 
 	button {
-		border: 2px solid salmon;
+		border: 2px solid black;
 		color: salmon;
   		border-radius: 0;
   		background: #fff;
